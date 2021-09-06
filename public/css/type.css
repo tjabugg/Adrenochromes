@@ -1,0 +1,480 @@
+.text_1 {
+    position: absolute;
+    top: 1.4vh;
+    left: 10.2vw;
+    width: 8.4vw;
+}
+
+.text_1 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_2 {
+    position: absolute;
+    top: 6.3vh;
+    left: 10.2vw;
+    width: 2.5vw;
+}
+
+.text_2 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_3 {
+    position: absolute;
+    top: 12.5vh;
+    left: 10.2vw;
+    width: 3.2vw;
+}
+
+.text_3 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_4 {
+    position: absolute;
+    top: 12.4vh;
+    left: 15.25vw;
+    width: 3.2vw;
+}
+
+.text_4 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_5 {
+    position: absolute;
+    top: 7.9vh;
+    left: 15.2vw;
+    width: 3.1vw;
+}
+
+.text_5 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_6 {
+    position: absolute;
+    top: 1.4vh;
+    left: 20.3vw;
+    width: 4.2vw;
+}
+
+.text_6 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_7 {
+    position: absolute;
+    top: 6.3vh;
+    left: 20.1vw;
+    width: 4.2vw;
+}
+
+.text_7 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_8 {
+    position: absolute;
+    top: 12.5vh;
+    left: 17.7vw;
+    width: 12.1vw;
+}
+
+.text_8 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_9 {
+    position: absolute;
+    top: 23vh;
+    left: 10.1vw;
+    width: 19.7vw;
+}
+
+.text_9 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_10 {
+    position: absolute;
+    top: 30.5vh;
+    left: 15.2vw;
+    width: 6.75vw;
+}
+
+.text_10 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_11 {
+    position: absolute;
+    top: 30.5vh;
+    left: 20.2vw;
+    width: 12.35vw;
+}
+
+.text_11 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_12 {
+    position: absolute;
+    top: 42.6vh;
+    left: 17.7vw;
+    width: 6.8vw;
+}
+
+.text_12 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_13 {
+    position: absolute;
+    top: 42.6vh;
+    left: 22.65vw;
+    width: 12.35vw;
+}
+
+.text_13 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_14 {
+    position: absolute;
+    top: 55.8vh;
+    left: 25.2vw;
+    width: 4.7vw;
+}
+
+.text_14 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_15 {
+    position: absolute;
+    top: 1.9vh;
+    left: 32.6vw;
+    width: 12.2vw;
+}
+
+.text_15 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_16 {
+    position: absolute;
+    top: 12.5vh;
+    left: 37.65vw;
+    width: 12.2vw;
+}
+
+.text_16 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_17 {
+    position: absolute;
+    top: 23vh;
+    left: 42.5vw;
+    width: 12.2vw;
+}
+
+.text_17 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_18 {
+    position: absolute;
+    top: 33.6vh;
+    left: 40.1vw;
+    width: 3.75vw;
+}
+
+.text_18 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_19 {
+    position: absolute;
+    top: 42.6vh;
+    left: 42.6vw;
+    width: 7.8vw;
+}
+
+.text_19 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_20 {
+    position: absolute;
+    top: 51.6vh;
+    left: 37.6vw;
+    width: 3.7vw;
+}
+
+.text_20 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_21 {
+    position: absolute;
+    top: 54.7vh;
+    left: 42.5vw;
+    width: 12.2vw;
+}
+
+.text_21 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_22 {
+    position: absolute;
+    top: 60.6vh;
+    left: 37.6vw;
+    width: 13.7vw;
+}
+
+.text_22 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_23 {
+    position: absolute;
+    top: 64.7vh;
+    left: 40.15vw;
+    width: 2.25vw;
+}
+
+.text_23 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_24 {
+    position: absolute;
+    top: 66.3vh;
+    left: 42.7vw;
+    width: 2.25vw;
+}
+
+.text_24 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_25 {
+    position: absolute;
+    top: 67.75vh;
+    left: 45.1vw;
+    width: 2.25vw;
+}
+
+.text_25 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_26 {
+    position: absolute;
+    top: 69.3vh;
+    left: 47.65vw;
+    width: 1.8vw;
+}
+
+.text_26 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_27 {
+    position: absolute;
+    top: 66.75vh;
+    left: 50.1vw;
+    width: 4.1vw;
+}
+
+.text_27 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_28 {
+    position: absolute;
+    top: 72.7vh;
+    left: 40.1vw;
+    width: 3.2vw;
+}
+
+.text_28 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_29 {
+    position: absolute;
+    top: 72.7vh;
+    left: 45.1vw;
+    width: 3.5vw;
+}
+
+.text_29 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_30 {
+    position: absolute;
+    top: 72.7vh;
+    left: 40.1vw;
+    width: 17.3vw;
+}
+
+.text_30 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_31 {
+    position: absolute;
+    top: 92.4vh;
+    left: 45.1vw;
+    width: 12.3vw;
+}
+
+.text_31 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_32 {
+    position: absolute;
+    top: 51.7vh;
+    left: 57.5vw;
+    width: 12.3vw;
+}
+
+.text_32 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_33 {
+    position: absolute;
+    top: 62.2vh;
+    left: 70vw;
+    width: 4.25vw;
+}
+
+.text_33 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_34 {
+    position: absolute;
+    top: 68.25vh;
+    left: 60vw;
+    width: 17.1vw;
+}
+
+.text_34 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_35 {
+    position: absolute;
+    top: 77.3vh;
+    left: 67.4vw;
+    width: 12.25vw;
+}
+
+.text_35 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_36 {
+    position: absolute;
+    top: 84.75vh;
+    left: 62.5vw;
+    width: 12.1vw;
+}
+
+.text_36 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text_37 {
+    position: absolute;
+    top: 92.4vh;
+    left: 74.95vw;
+    width: 4.6vw;
+}
+
+.text_37 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
